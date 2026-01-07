@@ -1,0 +1,67 @@
+/* line 2, ../sass/_main.scss */
+main {
+  background: #fff;
+  padding-top: 1.5rem;
+}
+
+/* line 6, ../sass/_main.scss */
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1.5rem;
+}
+
+/* line 11, ../sass/_main.scss */
+.article {
+  flex: 0 0 44%;
+}
+
+/* line 14, ../sass/_main.scss */
+.bt {
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+/* line 18, ../sass/_main.scss */
+.bt a {
+  color: #fff;
+  display: block;
+  background-color: #3B2851;
+  padding: .375rem .75rem;
+  border-radius: .25rem;
+}
+/* line 24, ../sass/_main.scss */
+.bt a:hover {
+  background: #6d4a95;
+  color: #cccccc;
+}
+
+/* line 32, ../sass/_main.scss */
+.containerVignettes {
+  padding: 1.5rem;
+  box-shadow: -1px -1px 20px 10px #ededed;
+}
+
+/* line 36, ../sass/_main.scss */
+.vignette {
+  position: relative;
+  flex: 0 0 29%;
+}
+
+/* line 40, ../sass/_main.scss */
+.vignette-figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.7);
+  display: none;
+  columns: #ededed;
+  padding: 1rem;
+}
+
+/* line 50, ../sass/_main.scss */
+.vignette:hover .vignette-figcaption {
+  display: block;
+}

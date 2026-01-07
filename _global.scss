@@ -1,0 +1,37 @@
+/* line 3, ../sass/_global.scss */
+html {
+  font-size: 1.25em;
+}
+
+/* line 6, ../sass/_global.scss */
+body {
+  font-family: 'BenchNine', sans-serif;
+  font-size: 1rem;
+  line-height: 1.2rem;
+  background: #ededed;
+}
+
+/*liens*/
+/* line 14, ../sass/_global.scss */
+a {
+  text-decoration: none;
+  color: #ae2123;
+}
+
+/* line 18, ../sass/_global.scss */
+a:hover {
+  color: #999;
+}
+
+/*images responsive*/
+/* line 24, ../sass/_global.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 26, ../sass/_global.scss */
+.wrapper {
+  width: 95%;
+  max-width: 1550px;
+  margin: 0 auto;
+    background: #fff;}

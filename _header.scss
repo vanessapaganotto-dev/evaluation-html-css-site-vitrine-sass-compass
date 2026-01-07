@@ -1,0 +1,42 @@
+/* line 1, ../sass/_header.scss */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1.5rem;
+}
+
+/* line 8, ../sass/_header.scss */
+.header-title {
+  padding-right: 1rem;
+  margin: 0;
+}
+
+/* line 15, ../sass/_header.scss */
+.menu {
+  background: #543973;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  border-radius: 1em;
+}
+
+/* line 24, ../sass/_header.scss */
+.menu-item {
+  list-style: none;
+}
+/* line 26, ../sass/_header.scss */
+.menu-item a {
+  background: #3B2851;
+  padding: 10px 20px;
+  margin: 1px 0px;
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+/* line 33, ../sass/_header.scss */
+.menu-item a:hover {
+  background: #6d4a95;
+  color: #d4c7e4;
+}

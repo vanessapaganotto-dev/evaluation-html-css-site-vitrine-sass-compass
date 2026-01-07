@@ -1,0 +1,49 @@
+/*grilles verticale rem*/
+/* line 4, ../sass/_typo.scss */
+html {
+  font-size: 1.25em;
+}
+
+/* line 7, ../sass/_typo.scss */
+body {
+  font-family: 'BenchNine', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+/* line 13, ../sass/_typo.scss */
+h1, .h1 {
+  font-size: 3rem;
+  line-height: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5em;
+}
+
+/* line 19, ../sass/_typo.scss */
+h2, .h2 {
+  font-size: 2.4rem;
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* line 25, ../sass/_typo.scss */
+h3, .h3 {
+  font-size: 1.35rem;
+  line-height: 1.3rem;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+/* line 33, ../sass/_typo.scss */
+p, ul, ol {
+  line-height: 1.5rem;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+/* line 38, ../sass/_typo.scss */
+ul ul, ol ol, ul ol, ol ul, .no-margin {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
