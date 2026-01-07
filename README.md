@@ -10,7 +10,7 @@ La page présente un header avec logo et titre, un menu de navigation, plusieurs
 - Images locales dans le dossier `img/`
 
 ## Installation  
-1. Cloner le dépôt :  
+Cloner le dépôt :  
 ```bash
 git clone <URL-du-repo>
 
