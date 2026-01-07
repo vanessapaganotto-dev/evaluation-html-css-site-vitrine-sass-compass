@@ -14,7 +14,6 @@ La page présente un header avec logo et titre, un menu de navigation, plusieurs
 ```bash
 git clone <URL-du-repo>
 
-
 Installer Compass et SASS si ce n'est pas déjà fait :
 
 gem install compass
@@ -48,3 +47,11 @@ Ajouter des animations CSS ou transitions
 Mettre en place un système de build automatisé pour SASS
 
 Ajouter plus d’interactions JavaScript
+
+
+Author
+
+Paganotto Vanessa
+
+
+
