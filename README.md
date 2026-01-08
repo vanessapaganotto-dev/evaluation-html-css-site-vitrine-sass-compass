@@ -22,9 +22,7 @@ gem install sass
 Compiler les fichiers SASS en CSS :
 
 compass compile
-
-
-
+```
 
 ## Fonctionnalités
 
