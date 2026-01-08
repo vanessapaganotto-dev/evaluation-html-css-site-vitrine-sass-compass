@@ -1,3 +1,6 @@
+🇬🇧 Version anglaise disponible : [README_EN.md](README_EN.md)
+
+
 # Projet Site Web avec SASS et Compass
 
 ## Description  
@@ -32,7 +35,7 @@ compass compile
 
 ## Fonctionnalités
 
-Structure responsive (à compléter selon CSS)
+Structure responsive
 
 Articles avec images et métadonnées (auteur, titre)
 
