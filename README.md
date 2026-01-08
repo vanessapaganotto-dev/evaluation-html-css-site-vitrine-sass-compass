@@ -38,20 +38,21 @@ Menu de navigation simple
 
 Footer
 
-Améliorations possibles
 
-Rendre le site pleinement responsive avec media queries SASS
+## Améliorations possibles
 
-Ajouter des animations CSS ou transitions
+- Rendre le site pleinement responsive avec media queries SASS  
+- Ajouter des animations CSS ou transitions  
+- Mettre en place un système de build automatisé pour SASS  
+- Ajouter plus d’interactions JavaScript  
 
-Mettre en place un système de build automatisé pour SASS
-
-Ajouter plus d’interactions JavaScript
-
-
-Author
+## Auteur
 
 Paganotto Vanessa
+
+## Licence
+
+Ce projet est sous licence MIT.
 
 
 
